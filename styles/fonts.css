@@ -1,0 +1,6 @@
+﻿body {font:12px/1.6 Tahoma, Helvetica, Arial, sans-serif;}
+table {font-size:inherit;font:100%;}
+.keep table td{word-break: keep-all;
+white-space:nowrap;}
+a,a:link,a:hover,a:active{color:#000;background:transparent;cursor:pointer;text-decoration:none;} 
+a:hover{text-decoration:underline;} 
